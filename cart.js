@@ -1,3 +1,5 @@
+
+var name = "array of object"
 var arrayOfStrings = [
   "First Grade",
   "High Grade",

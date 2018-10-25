@@ -14,3 +14,5 @@ const user = [
         password: "hanif123"
     }
 ]
+
+const mobil = [ "toyota", "honda", "mitsubishi" ];
